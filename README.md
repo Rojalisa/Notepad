@@ -1,1 +1,4 @@
 # Notepad
+public class Notepad{
+
+ }
