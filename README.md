@@ -1,4 +1,0 @@
-# Notepad
-public class Notepad{
-
- }
